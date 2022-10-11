@@ -8,4 +8,7 @@ public class prueba {
     void saludo2(){
         System.out.println("HOLA 2");
     }
+    void saludo3(){
+        System.out.println("HOLA 3");
+    }
 }
